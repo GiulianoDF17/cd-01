@@ -23,3 +23,14 @@ Everything else could be pretty much the same.
 
 
 Note: This project does not implement adequate handling of errors.
+
+21. Since no time is started so the time starts at 00:00
+23. I need to call the method 60 times. Or you may call the setTime method and set the minutes to 60 manually.
+24. NumberDisplay digit = new NumberDisplay(10);
+25. Rectangle window = new Rectangle(12, 10)
+26. The second constructor allows you to create a clock display with your own limits for the hours and minutes.
+27. The second constructor has parameters while the first doesn't. The second doesn't have the updateDisplay method which is a difference in both constructors, because it has the setTime display which has the updateDisplay method in it so that's what is different.
+28. p1.print("File", True);
+    p1.getStatus(1);
+29. Triangles, squares, and circles.
+
