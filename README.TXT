@@ -33,4 +33,13 @@ Note: This project does not implement adequate handling of errors.
 28. p1.print("File", True);
     p1.getStatus(1);
 29. Triangles, squares, and circles.
-
+30. roof = new Triangle();
+    roof.changeSize(60, 180);
+    roof.moveHorizontal(20);
+    roof.moveVertical(-60);
+    roof.makeVisible();
+    roof.changeColor("black");
+    roof.changeColor("green");
+31. Yes is the answer.
+32. 2
+33. It accepts negative numbers as well.
