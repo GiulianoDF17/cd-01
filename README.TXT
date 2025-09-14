@@ -43,3 +43,7 @@ Note: This project does not implement adequate handling of errors.
 31. Yes is the answer.
 32. 2
 33. It accepts negative numbers as well.
+34. Accepts only the integers ranging from -4 to 4. Thats what it means.
+35. Any sort of integer from 0 to |m| - 1 ^ 0 to -(|m| - 1).
+37. It is WAY easier to change the values to 1 - 12, because the other option was changing the displays front-end. Additionally, the first option (1-12) is changing the back-end which is WAY easier in my opnion.
+
